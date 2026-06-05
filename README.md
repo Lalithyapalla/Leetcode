@@ -24,6 +24,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Lalithyapalla/Leetcode/tree/master/0020-valid-parentheses) |
 | [0709-to-lower-case](https://github.com/Lalithyapalla/Leetcode/tree/master/0709-to-lower-case) |
 | [0917-reverse-only-letters](https://github.com/Lalithyapalla/Leetcode/tree/master/0917-reverse-only-letters) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Lalithyapalla/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
