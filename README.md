@@ -17,4 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Lalithyapalla/Leetcode/tree/master/0238-product-of-array-except-self) |
+## Two Pointers
+|  |
+| ------- |
+| [0917-reverse-only-letters](https://github.com/Lalithyapalla/Leetcode/tree/master/0917-reverse-only-letters) |
+## String
+|  |
+| ------- |
+| [0917-reverse-only-letters](https://github.com/Lalithyapalla/Leetcode/tree/master/0917-reverse-only-letters) |
 <!---LeetCode Topics End-->
